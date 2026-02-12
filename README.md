@@ -1,4 +1,5 @@
 # YaPr_DataScience_Computer_Vision
+Проект по компьютерному зрению.
 
 **Основной стек инструментов: Python (NumPy, Pandas, Matplotlib, PIL, TensorFlow/Keras), Jupyter, CSV, глубокое обучение (ResNet50, ImageDataGenerator), оптимизация, регуляризация, коллбэки (EarlyStopping, ReduceLROnPlateau).**
 
